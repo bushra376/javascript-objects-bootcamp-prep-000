@@ -1,4 +1,4 @@
-var playlist = { Taylor Swift: "Mean"}
+var playlist = { TaylorSwift: "Mean"}
 
 function updatePlaylist(obj,key,value){
   obj[key] = value;
