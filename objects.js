@@ -1,5 +1,5 @@
 
-var playlist = { TaylorSwift: "Mean"};
+var playlist = { Blue: "Mean"};
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist[artistName] = songTitle;
