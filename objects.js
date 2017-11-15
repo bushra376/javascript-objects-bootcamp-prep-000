@@ -1,4 +1,4 @@
-var playlist = { TaylorSwift: "Mean"}
+var playlist = new Object ({ TaylorSwift: "Mean"});
 
 function updatePlaylist(obj,key,value){
   obj[key] = value;
