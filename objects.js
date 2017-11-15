@@ -1,4 +1,5 @@
-var playlist = new Object ({ Taylor Swift: "Mean"});
+
+var playlist = { Taylor Swift: "Mean"};
 
 function updatePlaylist(obj,key,value){
   obj[key] = value;
